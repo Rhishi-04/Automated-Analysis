@@ -1,0 +1,5 @@
+httpx
+pandas
+seaborn
+matplotlib
+tenacity
